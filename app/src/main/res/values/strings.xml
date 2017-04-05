@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OpenglCameraDemo1</string>
+    <string name="help">帮助</string>
+    <string name="string_help_text">点击设置后配置所需权限</string>
+    <string name="quit">退出</string>
+    <string name="settings">设置</string>
+</resources>
